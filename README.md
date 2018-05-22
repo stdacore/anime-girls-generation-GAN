@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 ## Results of DCGAN & WGAN-GP
 <div>
     <img src='samples/dcgan_result.jpg', width="48%">
@@ -17,8 +13,14 @@
 </div>
 
 ## Training progress
-![without_classification](https://github.com/stdacore/anime-girls-generation-GAN/blob/master/samples/sample_gan2/demo.gif)
-![with_classification](https://github.com/stdacore/anime-girls-generation-GAN/blob/master/samples/sample_gan1/demo.gif)
+<div>
+    <img src='samples/sample_gan2/demo.gif', width="80%">
+</div>
+<div>
+    <img src='samples/sample_gan1/demo.gif', width="80%">
+</div>
 
 
 ## Dataset
+
+## Reference
