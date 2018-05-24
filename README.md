@@ -48,12 +48,12 @@ code will release after Jun 8 2018
 
 ## Dataset
 30k from [MakeGirlsMoe](https://make.girls.moe)  
-10k from [Konanchan](http://konanchan.com/)  
+10k from [Konachan](http://konachan.net/)  
 each picture has one hair color tag and one eyes color tag.  
 
 preprocessing: 
 * keep one face in one picture and crop out other things.
-* resize to 64*64, which means the model should input with 64*64 and have the same size outputs.
+* resize to 64\*64, which means the model should input with 64\*64 and have the same size outputs.
 
 
 ## Reference
